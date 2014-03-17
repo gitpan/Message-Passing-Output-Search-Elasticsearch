@@ -1,5 +1,5 @@
 package Message::Passing::Output::Search::Elasticsearch;
-$Message::Passing::Output::Search::Elasticsearch::VERSION = '0.001';
+$Message::Passing::Output::Search::Elasticsearch::VERSION = '0.002';
 # ABSTRACT: index messages in Elasticsearch
 
 use Moo;
@@ -118,7 +118,7 @@ Message::Passing::Output::Search::Elasticsearch - index messages in Elasticsearc
 
 =head1 VERSION
 
-version 0.001
+version 0.002
 
 =head1 DESCRIPTION
 
